@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+
+header img{
+    border-top: 30px;
+    width: 150px;
+    right: 150px;
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+    color: orange;
+}
+a{
+margin: 15px;
+text-align: center;
+}
+
+a{
+    margin: 2px;
+    color: orange;
+    text-decoration: none;
+}
